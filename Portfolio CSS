@@ -1,0 +1,24 @@
+CSSbody {
+    
+    font-family: 'Arial', sans-serif;
+}
+
+h1, h2 {
+    color: #5a5c5e;
+}
+
+#skills h4 {
+    margin-top: 20px;
+}
+
+.card-title {
+    color: #343a40;
+}
+
+.card-text {
+    color: #6c757d;
+}
+
+footer {
+    background-color: #343a40;
+}
